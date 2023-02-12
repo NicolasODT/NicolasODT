@@ -3,9 +3,10 @@ I am a developer in training who is passionate about web technologies. I am curr
   
 My Goals : <BR>
 I am currently focusing on technologies related to Data and my goal is to train myself to become a data analyst or data scientist.<BR><BR>
-Needs and Interests :<BR>
   
+Needs and Interests :<BR>
 I do not have any specific needs for my current projects, but I am always open to advice and constructive feedback. Feel free to ask me questions about my current projects, my development background, or any other technology-related topics.<BR>
+  
 If you are interested in collaborating on a development project, feel free to contact me!
   
 
