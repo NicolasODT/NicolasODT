@@ -1,9 +1,12 @@
 ## Who am I? : <BR>
 I am a developer in training who is passionate about web technologies. I am currently working on several personal projects and also working as part of a team on a project for a company, which we are developing with four people, two days a week. I am always interested in new projects and open to collaboration.<BR><BR>
-##My Goals : <BR>
+  
+My Goals : <BR>
 I am currently focusing on technologies related to Data and my goal is to train myself to become a data analyst or data scientist.<BR><BR>
-##Needs and Interests :<BR>
+Needs and Interests :<BR>
+  
 I do not have any specific needs for my current projects, but I am always open to advice and constructive feedback. Feel free to ask me questions about my current projects, my development background, or any other technology-related topics.<BR>
+  
 If you are interested in collaborating on a development project, feel free to contact me!
   
 
