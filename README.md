@@ -1,4 +1,5 @@
-## Who am I? : <BR>
+## Welcome to my world of coding! <BR>
+ Who am I? :<BR>
 I am a developer in training who is passionate about web technologies. I am currently working on several personal projects and also working as part of a team on a project for a company, which we are developing with four people, two days a week. I am always interested in new projects and open to collaboration.<BR><BR>
   
 My Goals : <BR>
