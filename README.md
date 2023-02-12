@@ -6,7 +6,6 @@ I am currently focusing on technologies related to Data and my goal is to train 
 Needs and Interests :<BR>
   
 I do not have any specific needs for my current projects, but I am always open to advice and constructive feedback. Feel free to ask me questions about my current projects, my development background, or any other technology-related topics.<BR>
-  
 If you are interested in collaborating on a development project, feel free to contact me!
   
 
