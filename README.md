@@ -2,6 +2,8 @@
 
 ###
 
+
+
 <h2 align="left">Qui suis-je ?</h2>
 
 ###
@@ -27,8 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasODT&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
