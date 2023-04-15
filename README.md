@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Je m'appelle Nicolas et je suis un **développeur en formation** passionné par les technologies web. Je suis basé en Belgique et j'adore explorer de nouvelles technologies et travailler sur des projets innovants.</p>
+<p align="left">Je m'appelle Nicolas et je suis un développeur en formation passionné par les technologies web. Je suis basé en Belgique et j'adore explorer de nouvelles technologies et travailler sur des projets innovants.</p>
 
 ###
 
