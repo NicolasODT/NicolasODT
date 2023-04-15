@@ -75,7 +75,7 @@
 
 ###
 
-<p align="center">Outils de conception</p>
+<h3 align="center">Outils de conception</h3>
 
 ###
 
