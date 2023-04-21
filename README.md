@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Je suis actuellement en train de me spécialiser dans les technologies liées aux données et mon objectif est de devenir un analyste de données ou un scientifique des données. J'aime travailler sur des projets qui ont un impact significatif sur les gens et j'espère pouvoir contribuer à créer des solutions innovantes.</p>
+<p align="left">Je suis actuellement en train de me spécialiser dans les technologies liées aux données et mon objectif est de devenir un scientifique des données. J'aime travailler sur des projets qui ont un impact significatif sur les gens et j'espère pouvoir contribuer à créer des solutions innovantes.</p>
 
 ###
 
