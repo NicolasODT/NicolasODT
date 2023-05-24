@@ -38,11 +38,11 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 <div align="center">
 
-  ![python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-  ![php logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-  ![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-  ![css3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-  ![html5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="60" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" width="60" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="60" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="60" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="60" alt="html5 logo" />
 
 </div>
 
@@ -50,10 +50,10 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 <div align="center">
 
-  ![sass logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-  ![symfony logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg)
-  ![tailwindcss logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-  ![bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="60" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="48" width="60" alt="symfony logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" width="60" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="60" alt="bootstrap logo" />
 
 </div>
 
@@ -61,8 +61,8 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 <div align="center">
 
-  ![mysql logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-  ![postgresql logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="60" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="60" alt="postgresql logo" />
 
 </div>
 
@@ -70,9 +70,9 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 <div align="center">
 
-  ![figma logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
-  ![illustrator logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg)
-  ![photoshop logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="60" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="60" alt="illustrator logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="60" alt="photoshop logo" />
 
 </div>
 
@@ -84,7 +84,7 @@ Vous pouvez me rejoindre sur [LinkedIn](https://www.linkedin.com/in/nicoterwagne
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nicoterwagne/" target="_blank">
-    ![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
