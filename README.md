@@ -1,4 +1,4 @@
-<h1 align="center">🤖💻 Nicolas, Développeur Web & Data Enthusiaste 💻🤖</h1>
+<h1 align="center">🤖💻 Nicolas, Développeur Web & Data 💻🤖</h1>
 
 <p align="center">Bienvenue dans mon univers de programmation et de découverte technologique!</p>
 
@@ -23,60 +23,62 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 ---
 
 <div align="center">
-
-  ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2)
-
-  ![streak graph](https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="160" alt="streak graph"  />
 </div>
 
----
+###
 
-## 📚 Compétences techniques 
+<h3 align="center">Langages de programmation</h3>
 
-### Langages de programmation
+###
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" width="60" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="60" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="60" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="60" alt="html5 logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" width="60" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="60" alt="html5 logo"  />
 </div>
 
-### Frameworks et bibliothèques
+###
+
+<h3 align="center">Frameworks et bibliothèques</h3>
+
+###
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="60" alt="sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="48" width="60" alt="symfony logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" width="60" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="60" alt="bootstrap logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="60" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="48" width="60" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" width="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="60" alt="bootstrap logo"  />
 </div>
 
-### Bases de données
+###
+
+<h3 align="center">Bases de données</h3>
+
+###
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="60" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="60" alt="postgresql logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="60" alt="postgresql logo"  />
 </div>
 
-### Outils de conception
+###
+
+<h3 align="center">Outils de conception</h3>
+
+###
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="60" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="60" alt="illustrator logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="60" alt="photoshop logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="60" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="60" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="60" alt="photoshop logo"  />
 </div>
 
----
+###
+
 
 ## 📫 Restons en contact!
 
