@@ -22,10 +22,6 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="160" alt="streak graph"  />
-</div>
 
 ###
 
@@ -78,6 +74,13 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="60" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="60" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="60" alt="photoshop logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
