@@ -1,94 +1,94 @@
-<h1 align="left">Développement web et data 🤖💻</h1>
+<h1 align="center">🤖💻 Nicolas, Développeur Web & Data Enthusiaste 💻🤖</h1>
 
-###
+<p align="center">Bienvenue dans mon univers de programmation et de découverte technologique!</p>
 
-<p align="left"></p> 
+---
 
-###
+## 🚀 À propos de moi 
 
-<h2 align="left">Qui suis-je ?</h2> 
+Bonjour! Je m'appelle Nicolas, je suis un développeur en formation passionné par les technologies de pointe. Basé en France avec des racines belges, j'adore plonger dans les nouvelles technologies et participer à des projets innovants. Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et mettre en pratique ce que j'ai appris.
 
-###
+---
 
-<p align="left">Je m'appelle Nicolas et je suis un développeur en formation passionné par les technologies. J'habite en France, mais je suis d'origine belge et j'adore explorer de nouvelles technologies et travailler sur des projets innovants.</p>
+## 💼 Mes objectifs
 
-###
+Je me concentre actuellement sur les technologies liées aux données dans le but de devenir data scientist. Je suis motivé par les projets ayant un impact significatif et je suis impatient de créer des solutions innovantes et utiles pour le monde.
 
-<h2 align="left">Mes objectifs</h2>
+---
 
-###
+## 🎯 Mes intérêts
 
-<p align="left">Je suis actuellement en train de me spécialiser dans les technologies liées aux données et mon objectif est de devenir un scientifique des données. J'aime travailler sur des projets qui ont un impact significatif sur les gens et j'espère pouvoir contribuer à créer des solutions innovantes.</p>
+Je suis passionné par tout ce qui concerne la data et l'intelligence artificielle. J'aspire à créer des solutions innovantes dans ces domaines. Par ailleurs, je reste ouvert à toutes les propositions de collaboration dans d'autres domaines liés aux technologies.
 
-###
-
-<h2 align="left">Mes intérêts</h2>
-
-###
-
-<p align="left">Je suis passionné par tout ce qui touche à la data et à l'intelligence artificielle. J'aime travailler sur des projets qui ont un impact significatif sur les gens et j'espère pouvoir contribuer à créer des solutions innovantes dans ces domaines. Je suis également ouvert à toute proposition de collaboration dans d'autres domaines liés aux technologies.</p>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="160" alt="streak graph"  />
+
+  ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=nicolasODT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2)
+
+  ![streak graph](https://streak-stats.demolab.com?user=nicolasODT&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3)
+
 </div>
 
-###
+---
 
-<h3 align="center">Langages de programmation</h3>
+## 📚 Compétences techniques 
 
-###
+### Langages de programmation
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="60" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" width="60" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="60" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="60" alt="html5 logo"  />
+
+  ![python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+  ![php logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+  ![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+  ![css3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+  ![html5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+
 </div>
 
-###
-
-<h3 align="center">Frameworks et bibliothèques</h3>
-
-###
+### Frameworks et bibliothèques
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="60" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="48" width="60" alt="symfony logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" width="60" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="60" alt="bootstrap logo"  />
+
+  ![sass logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
+  ![symfony logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg)
+  ![tailwindcss logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
+  ![bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+
 </div>
 
-###
-
-<h3 align="center">Bases de données</h3>
-
-###
+### Bases de données
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="60" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="60" alt="postgresql logo"  />
+
+  ![mysql logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+  ![postgresql logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
 </div>
 
-###
-
-<h3 align="center">Outils de conception</h3>
-
-###
+### Outils de conception
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="60" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="60" alt="illustrator logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="60" alt="photoshop logo"  />
+
+  ![figma logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+  ![illustrator logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg)
+  ![photoshop logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg)
+
 </div>
 
-###
+---
+
+## 📫 Restons en contact!
+
+Vous pouvez me rejoindre sur [LinkedIn](https://www.linkedin.com/in/nicoterwagne/) - j'aimerais avoir de vos nouvelles!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nicoterwagne/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    ![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
   </a>
 </div>
+
+---
+
+Merci d'avoir visité mon profil GitHub. N'hésitez pas à jeter un coup d'œil à mes projets!
+
