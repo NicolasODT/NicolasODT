@@ -2,7 +2,7 @@
 
 <p align="center">Bienvenue dans mon univers de programmation et de découverte technologique!</p>
 
----
+
 
 ## 🚀 À propos de moi 
 
@@ -28,7 +28,7 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 </div>
 
 ###
----
+
 
 <h2 align="center">📚 Compétences techniques</h2>
 
