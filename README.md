@@ -2,19 +2,19 @@
 
 <p align="center">Bienvenue dans mon univers de programmation et de découverte technologique!</p>
 
-
+---
 
 ## 🚀 À propos de moi 
 
 Bonjour! Je m'appelle Nicolas, je suis un développeur en formation passionné par les technologies de pointe. Basé en France avec des racines belges, j'adore plonger dans les nouvelles technologies et participer à des projets innovants. Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et mettre en pratique ce que j'ai appris.
 
----
+
 
 ## 💼 Mes objectifs
 
 Je me concentre actuellement sur les technologies liées aux données dans le but de devenir data scientist. Je suis motivé par les projets ayant un impact significatif et je suis impatient de créer des solutions innovantes et utiles pour le monde.
 
----
+
 
 ## 🎯 Mes intérêts
 
