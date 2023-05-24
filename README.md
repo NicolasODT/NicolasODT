@@ -26,7 +26,7 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 ###
 
 
-<h2 align="center">📚 Compétences techniques</h2>
+<h1 align="center">📚 Compétences techniques</h1>
 
 <h3 align="center">Langages de programmation</h3>
 
