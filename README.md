@@ -1,4 +1,4 @@
-<h1 align="center">🤖💻 Nicolas, Développeur Web & Data 💻🤖</h1>
+<h1 align="center">Nicolas, Développeur Web & Data 💻🤖</h1>
 
 <p align="center">Bienvenue dans mon univers de programmation et de découverte technologique!</p>
 
@@ -28,6 +28,9 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 </div>
 
 ###
+---
+
+<h2 align="center">📚 Compétences techniques</h2>
 
 <h3 align="center">Langages de programmation</h3>
 
@@ -82,9 +85,7 @@ Je suis passionné par tout ce qui concerne la data et l'intelligence artificiel
 
 ## 📫 Restons en contact!
 
-Vous pouvez me rejoindre sur [LinkedIn](https://www.linkedin.com/in/nicoterwagne/) - j'aimerais avoir de vos nouvelles!
-
-<div align="left">
+Vous pouvez me rejoindre sur <div align="left">
   <a href="https://www.linkedin.com/in/nicoterwagne/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
