@@ -52,7 +52,7 @@ Outre ma fascination pour la Big Data et l'intelligence artificielle, je suis tr
 <h3 align="center">Outils d'analyse de données</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="48" width="60" alt="powerbi logo"  />
+  <img src=https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png"" height="48" width="60" alt="powerbi logo"  />
 </div>
 
 
