@@ -1,20 +1,20 @@
-<h1 align="center">Nicolas, Concepteur Développeur d'Applications (CDA) & Futur Spécialiste en Big Data 💻🤖</h1>
+<h1 align="center">Nicolas, Concepteur Développeur d'Applications (CDA) 💻</h1>
 
-<p align="center">Bienvenue dans mon univers de développement d'applications, d'innovation technologique, et de passion pour les données!</p>
+<p align="center">Bienvenue dans mon univers de développement d'applications, et de passion pour les données!</p>
 
 ---
 
 ## 🚀 À propos de moi 
 
-Bonjour! Je m'appelle Nicolas. Suite à ma réussite en tant que développeur web, je me suis lancé un nouveau défi en poursuivant une formation de Concepteur Développeur d'Applications (CDA). Je suis basé en France, avec des racines belges, et je suis passionné par l'apprentissage continu et l'application des technologies de pointe dans des projets qui ont du sens.
+Bonjour ! Je m'appelle Nicolas. Suite à ma réussite en tant que développeur web, je me suis lancé un nouveau défi en poursuivant une formation de Concepteur Développeur d'Applications (CDA). Je suis basé en France, avec des racines belges, et je suis passionné par l'apprentissage continu et l'application des technologies de pointe dans des projets qui ont du sens.
 
 ## 💼 Mes objectifs
 
-Actuellement, je me concentre sur ma formation en CDA, avec un intérêt particulier pour les applications complexes et innovantes. En vue de mon aspiration à devenir un spécialiste en Big Data, je prévois de rejoindre l'école Nextech en septembre 2024. Je suis en quête active d'une alternance dans la région d'Avignon qui me permettra de fusionner ma passion pour le développement d'applications et les technologies de données.
+Actuellement, je me concentre sur ma formation en CDA, avec un intérêt particulier pour les applications complexes. En vue de mon aspiration à devenir un spécialiste en Big Data, je prévois de rejoindre l'école Nextech en septembre 2024. Je suis en quête active d'une alternance dans la région d'Avignon qui me permettra de fusionner ma passion pour le développement d'applications et les technologies de données.
 
 ## 🎯 Mes intérêts
 
-Outre ma fascination pour la Big Data et l'intelligence artificielle, je suis très intéressé par le développement frontend et backend, notamment avec des technologies comme Angular et TypeScript. J'apprécie également les défis liés à l'analyse de données et suis toujours à la recherche de projets collaboratifs qui peuvent étendre mes horizons technologiques.
+Outre ma fascination pour la Big Data et l'intelligence artificielle, je suis très intéressé par le développement frontend et backend. J'apprécie également les défis liés à l'analyse de données et suis toujours à la recherche de projets collaboratifs qui peuvent étendre mes horizons technologiques.
 
 ---
 
