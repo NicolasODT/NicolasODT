@@ -10,7 +10,7 @@ Bonjour ! Je m'appelle Nicolas. Suite à ma réussite en tant que développeur w
 
 ## 💼 Mes objectifs
 
-Actuellement, je me concentre sur ma formation en CDA, avec un intérêt particulier pour les applications complexes. En vue de mon aspiration à devenir un spécialiste en Big Data, je prévois de rejoindre l'école Nextech en septembre 2024. Je suis en quête active d'une alternance dans la région d'Avignon qui me permettra de fusionner ma passion pour le développement d'applications et les technologies de données.
+Actuellement, je me concentre sur ma formation en CDA, avec un intérêt particulier pour les applications complexes. En vue de mon aspiration à devenir un spécialiste en Big Data, je prévois de rejoindre l'école [Nextech](https://nextechformation.fr/) en septembre 2024. Je suis en quête active d'une alternance dans la région d'Avignon qui me permettra de fusionner ma passion pour le développement d'applications et les technologies de données.
 
 ## 🎯 Mes intérêts
 
