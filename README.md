@@ -49,6 +49,13 @@ Outre ma fascination pour la Big Data et l'intelligence artificielle, je suis tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="60" alt="postgresql logo"  />
 </div>
 
+<h3 align="center">Outils d'analyse de données</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="48" width="60" alt="powerbi logo"  />
+</div>
+
+
 <h3 align="center">Outils de conception</h3>
 
 <div align="center">
