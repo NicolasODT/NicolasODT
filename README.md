@@ -1,20 +1,21 @@
-<h1 align="center">Nicolas, Concepteur Développeur d'Applications (CDA) 💻</h1>
+<h1 align="center">Nicolas, Concepteur Développeur d'Applications (CDA) et Spécialiste en Cybersécurité 🔒</h1>
 
-<p align="center">Bienvenue dans mon univers de développement d'applications, et de passion pour les données!</p>
+<p align="center">Bienvenue dans mon univers de développement d'applications et de cybersécurité!</p>
 
 ---
 
-## 🚀 À propos de moi 
+## 🚀 À propos de moi
 
-Bonjour ! Je m'appelle Nicolas. Suite à ma réussite en tant que développeur web, je me suis lancé un nouveau défi en poursuivant une formation de Concepteur Développeur d'Applications (CDA). Je suis basé en France, avec des racines belges, et je suis passionné par l'apprentissage continu et l'application des technologies de pointe dans des projets qui ont du sens.
+Bonjour ! Je m'appelle Nicolas. Après avoir été diplômé en tant que Concepteur Développeur d'Applications (CDA, RNCP niveau 6), j'ai décidé de me spécialiser dans le domaine de la cybersécurité en rejoignant l'[Académie Vaucluse Provence](https://academie.vaucluse.cci.fr/numerique/manager-en-ingenierie-informatique-specialisation-cybersecurite/) pour un titre RNCP niveau 7 en Management en Ingénierie Informatique, spécialisation Cybersécurité. Je suis actuellement en alternance à la société Moze située à Agroparc, Avignon.
 
-## 💼 Mes objectifs
+## 💼 Mes missions en entreprise
 
-Actuellement, je me concentre sur ma formation en CDA, avec un intérêt particulier pour les applications complexes. En vue de mon aspiration à devenir un spécialiste en Big Data, je prévois de rejoindre l'école [Nextech](https://nextechformation.fr/) en septembre 2024. Je suis en quête active d'une alternance dans la région d'Avignon qui me permettra de fusionner ma passion pour le développement d'applications et les technologies de données.
+Actuellement en alternance chez Moze, je suis le développeur backend principal en Spring Boot, et je gère également d'autres alternants en bac+3 pour la partie frontend et parfois backend. En entreprise, je suis spécialisé dans le développement backend, tout en m'assurant que chaque solution mise en place intègre des mécanismes de sécurité pour éviter les failles potentielles.
 
-## 🎯 Mes intérêts
+## 🔗 Mes objectifs
 
-Outre ma fascination pour la Big Data et l'intelligence artificielle, je suis très intéressé par le développement frontend et backend. J'apprécie également les défis liés à l'analyse de données et suis toujours à la recherche de projets collaboratifs qui peuvent étendre mes horizons technologiques.
+Mon principal objectif est de peut-être créer ma propre entreprise avec un collègue en parallèle de rejoindre une autre organisation (cela reste à voir pendant ma formation). Je prévois également de passer des certifications comme l'OSCP, ainsi que de suivre des formations sur [INE.com](https://ine.com/) telles que eJPT, eCPPT, et eWPT. À long terme, j'aimerais rejoindre des équipes Red Team, avec un intérêt particulier pour le reverse engineering, un domaine que je trouve passionnant même si je n'ai pas encore de bases solides et que je suis encore au début.
+
 
 ---
 
