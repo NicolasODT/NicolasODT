@@ -72,5 +72,3 @@ Mon principal objectif est de peut-être créer ma propre entreprise avec un col
 </div>
 
 ---
-
-Merci d'avoir visité mon profil GitHub. Je vous invite à explorer mes projets et à me contacter pour des opportunités d'alternance!
